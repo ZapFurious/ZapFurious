@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ZapFurious
-- 👀 I’m interested in Development Game
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Ubisoft
-- 📫 How to reach me - @Zapf.gt on Instagram
+👋 Hi there! I'm Zap (not my real name — just my online alias).
+💻 Script developer by heart, but I also dabble in full-stack development.
+🤖 Deeply focused on bots, automation, and headless systems.
+📬 Feel free to DM me if you have questions or just want to chat!
 
 <!---
 ZapFurious/ZapFurious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
